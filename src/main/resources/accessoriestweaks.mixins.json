@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.wfphantom.accessoriestweaks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "InventoryKeyMixin",
+    "RemoveCraftingGridButtonMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
